@@ -57,15 +57,23 @@ Overall, the tables work together to help the bookstore keep track of its books,
 THESE ARE THE FILES WE CREATED FOR EACH OF THE REQUIREMENTS OF THE ASSIGNMENT:
 
 The code we used to create the table - create_database.sql
+
 The sample we created and used to populate the table with - database sample1.sql
+
 The permissions we implemented for access - permissions.sql
+
 Thee tables we drew to show the relationships between the different tables - bookstore-er-diagram.drawio.png
+
 We have also added the commands we used to retrieve data to test if our database is responsive - example_queries.sql
+
 Our complete database with all the above as a single file - BookstoreDB.sql
 
 The people who contributed to this assignment as can be found in the fork list of contributors are:
+
 Nombuso Ntsele - @gmail.com
+
 Lathitha Vena - lathithavena3@gmail.com
+
 Letshego Sephiri - letshegosephiri@gmail.com
 
 
