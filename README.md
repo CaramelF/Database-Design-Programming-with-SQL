@@ -70,7 +70,7 @@ Our complete database with all the above as a single file - BookstoreDB.sql
 
 The people who contributed to this assignment as can be found in the fork list of contributors are:
 
-Nombuso Ntsele - @gmail.com
+Nombuso Ntsele - nombusomelinda@gmail.com 
 
 Lathitha Vena - lathithavena3@gmail.com
 
